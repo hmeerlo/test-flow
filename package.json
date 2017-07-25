@@ -1,0 +1,12 @@
+{
+  "name": "test-flow",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Flow test",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "flow-bin": "^0.51.0"
+  }
+}
+
